@@ -1,1 +1,1 @@
-# Predicting_Animal_Breed_Using_Convolutional_Neural_Networks
+# Designing an Algorithm to Predict Animal Breed Using Convolutional Neural Networks
